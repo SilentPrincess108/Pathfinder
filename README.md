@@ -1,7 +1,18 @@
 # Pathfinder
 A hardware starter project made for Hack Club's Stasis! My version of the project allows you to play a memory-reaction game using led's and key buttons.
 
+How it works:
+- led's will light up in a random sequence
+- the user than has to click the corresponding keys in order of the sequence within 5 seconds
+- if the inputted sequence is correct, they gain a point, otherwise, they lose a life
+- this goes on until the player loses all their lives
+
 ![3dView1](https://github.com/user-attachments/assets/2271d1ba-2762-45a3-8535-fdcd587ce0cf)
+
+![schematic](https://github.com/user-attachments/assets/eb959a1c-1db9-4f83-b9f2-e82b06f0bbfc)
+
+![pcb2](https://github.com/user-attachments/assets/d82bb070-f8c7-4710-be39-777480e164a4)
+
 
 |Item|Part Name       |Quantity|Description|Cost |Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |----|----------------|--------|-----------|-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
